@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DassHydro homepage on DassHydro</title>
+    <link>https://mathhydronum.insa-toulouse.fr/</link>
+    <description>Recent content in DassHydro homepage on DassHydro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 15:16:38 +0200</lastBuildDate><atom:link href="https://mathhydronum.insa-toulouse.fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shared technologies for all codes</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_shared_tech/</link>
+      <pubDate>Fri, 07 Jul 2023 11:40:04 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_shared_tech/</guid>
+      <description>Codes presentation DassFlow is the code simulating river dynamics either based on the 2D Shallow Water system (2D SW), DassFlow 2D code, or on the 1D Saint-Venant system (1D SW), DassFlow1D code.
+SMASH is the code simulating the hydrology (spatially distributed model) at watershed scale.
+DassHydro is the code integrating both codes, which are weakly coupled in the way SMASH - DassFlow 2D.
+Codes languages and architecture The three codes ( DassFlow2D , DassFlow1D and SMASH ) have been built up following the same spirit and technologies.</description>
+    </item>
+    
+    <item>
+      <title>Download DassFlow &amp; SMASH</title>
+      <link>https://mathhydronum.insa-toulouse.fr/download/dl_dassflow_smash/</link>
+      <pubDate>Thu, 22 Jun 2023 16:07:25 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/download/dl_dassflow_smash/</guid>
+      <description>Codes for DassFlow and SMASH are available on GitHub. Please refer to the README.txt files for more information on how to get these codes.
+DassFlow1D Download DassFlow1D DassFlow2D Download DassFlow2D SMASH Download SMASH </description>
+    </item>
+    
+    <item>
+      <title>Real-world cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_dassflow2d/ex_real-world_cases_dassflow2d/</link>
+      <pubDate>Thu, 22 Jun 2023 15:54:40 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_dassflow2d/ex_real-world_cases_dassflow2d/</guid>
+      <description>Title From Pujol-Garambois-Monnier, GMD 2022 with datasets from SPC. Coupled hydrological - 1D/2D hydraulic models with data assimilation: Adour basin case (south-western France) (L)) with a zoom on Bayonne city (water depth h in m) (R).
+You can download the different codes on this page.</description>
+    </item>
+    
+    <item>
+      <title>DassHydro test cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_dasshydro/</link>
+      <pubDate>Thu, 22 Jun 2023 15:53:44 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_dasshydro/</guid>
+      <description>You can download the different codes on this page.</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>https://mathhydronum.insa-toulouse.fr/the_team/team_objectives/</link>
+      <pubDate>Thu, 22 Jun 2023 15:24:20 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/the_team/team_objectives/</guid>
+      <description>MathHydroNum denotes a French multidisciplinary research project-team offering expertise in numerical hydrology and the software platform DassHydro (Data Assimilation in Hydrology) dedicated to numerical modeling of surface hydrodynamics and hydrology.
+The team brings together expertise in computational sciences, hydrology, hydraulics, mathematical models and methods, inverse problems, statistical inference, sensitivity analysis, data assimilation, reduced models, and physically informed neural networks.
+The objectives of MathHydroNum are to design models, numerical methods, algorithms, and computational softwares that address scientific challenges in the following areas:</description>
+    </item>
+    
+    <item>
+      <title>DassHydro</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dasshydro/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:36 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dasshydro/</guid>
+      <description>What is DassHydro ? DassHydro denotes the name of the code sequentially coupling SMASH and DassFlow2D .
+DassHydro enables complete simulations from rainfall to discharge and inundation dynamics (rainfall-runoff hydraulics).
+As a consequence, DassHydro provides a quite complete computational code dedicated to hydrology (floods, inundations).
+DassHydro inherits from all capabilities of DassFlow2D and SMASH, in particular of the Data Assimilation capabilities.
+Test cases and real-world applications of DassHydro</description>
+    </item>
+    
+    <item>
+      <title>Download the HiVDI algorithm</title>
+      <link>https://mathhydronum.insa-toulouse.fr/download/dl_hivdi/</link>
+      <pubDate>Thu, 22 Jun 2023 16:07:15 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/download/dl_hivdi/</guid>
+      <description>HiVDI is an open-source algorithm. If you want access to the code, just fill in the form below and we will get back to you as soon as possible.
+About the academic institution Institution Name: * Institution Complementary Information (scientific leader, team name): * Institution URL: * Institution Address: About you Full Name: * GitHub Username: * Email: * Position: * [Enter your position] Complementary information, remark or specific needs: * Required field I have read and agree to the GNU AFFERO GENERAL PUBLIC LICENSE terms and conditions.</description>
+    </item>
+    
+    <item>
+      <title>Validation cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_dassflow2d/ex_validation_cases_dassflow2d/</link>
+      <pubDate>Thu, 22 Jun 2023 15:54:50 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_dassflow2d/ex_validation_cases_dassflow2d/</guid>
+      <description>Finite Volumes schemes accuracy From: [Couderc, F., Madec, R., Monnier, J., &amp;amp; Vila, J. P. (2013). Dassfow V2.0: numerical schemes, user and developer guides. Research report university of Toulouse]. See also: [Monnier, J., Couderc, F., Dartus, D., Larnier, K., Madec, R., &amp;amp; Vila, J. P. (2016). Inverse algorithms for 2D shallow water equations in presence of wet dry fronts: Application to flood plain dynamics. Advances in Water Resources, 97, 11-24.] 1.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://mathhydronum.insa-toulouse.fr/the_team/team_members/</link>
+      <pubDate>Thu, 22 Jun 2023 15:24:12 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/the_team/team_members/</guid>
+      <description>Founding teams INSA Toulouse - IMT INRAE Aix (UMR RECOVER) Jérôme Monnier (Professor, founder, co-lead) Webpage Pierre-André Garambois (Researcher, co-founder, co-lead) Webpage Robin Bouclier (Associated member, associate Professor HDR) Webpage Benjamin Renard (Researcher) Olivier Roustant (Associated member, Professor) Webpage François Colleoni (R&amp;amp;D Engineer) Mustapha Allabou (Ph.D. Student 2021-24) Truyen Huynh (Ph.D. student 2022-25) Hugo Boulenc (Ph.D. Student 2022-25) CS Group Toulouse HydroSciences Montpellier Kévin Larnier (R&amp;amp;D Engineer) Webpage Léo Pujol (postdoctoral researcher) Webpage Collaborators Engees-Icube SERTIT-Icube Guilhem Dellinger (Associate professor) Webpage Alessandro Caretto (R&amp;amp;D engineer) IMFT - INPT International collaborators Helene Roux (Professor) Webpage Shangzhi Chen (Assistant Professor, Anhui University of Science and Technology in China) Webpage Partners and co-funders </description>
+    </item>
+    
+    <item>
+      <title>DassFlow 1D &amp; 2D</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dassflow/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:36 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dassflow/</guid>
+      <description>Fine scale 1D hydraulic model with hydrological inflows of the Negro River in the Amazon basin built from multi-satellite and in situ data. From [Pujol et al. 2020, JoH] What is DassFlow ? DassFlow (Data Assimilation for Free Surface Flows) denotes a set of computational codes aiming at modeling free surface geophysical flows with data assimilation capabilities. These flows can be water-rivers flows (Newtonian rheology) but also ice-glaciers flows (power-laws rheology) or lavas, muds flows1 etc (based on Herschel-Bulskley rheology laws).</description>
+    </item>
+    
+    <item>
+      <title>SMASH test cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_smash/</link>
+      <pubDate>Thu, 22 Jun 2023 15:53:21 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_smash/</guid>
+      <description>You can download the different codes on this page.</description>
+    </item>
+    
+    <item>
+      <title>SMASH</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_smash/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:45 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_smash/</guid>
+      <description>What is SMASH ? SMASH Spatially distributed Modeling and Assimilation for Hydrology denotes a computational code aiming at simulating discharge hydrographs and hydrological states at any spatial location within a basin and reproduce the hydrological response of contrasted catchments. It contains several hydrological operators and flexible model structures with data assimilation and sensitivity analysis algorithms. The code is designed both for operational forecasting of floods and low flows, and can take advantage of spatially distributed meteorological forcings, physiographic data and hydrometric observations.</description>
+    </item>
+    
+    <item>
+      <title>HIVDI algorithm (SWOT Mission)</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_hivdi/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:49 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_hivdi/</guid>
+      <description>Description of the solved inverse problem. Images extracted from [Larnier-Monnier, Compt. GeoSci. 2023]. What is HiVDI ? HiVDI = Hybrid Hierarchical Variational Discharge Inference
+The HiVDI algorithm aims at estimating rivers discharge and rivers bathymetry from measurements of the SWOT instrument (NASA-CNES et al. mission).
+In a nutshell, the algorithm relies on DassFlow1D code , Deep Learning and a Bayesian analysis, see figure below (details available in [Larnier-Monnier 2023]). The algorithm is here available upon simple request.</description>
+    </item>
+    
+    <item>
+      <title>External tools</title>
+      <link>https://mathhydronum.insa-toulouse.fr/tools/external_tools/</link>
+      <pubDate>Fri, 21 Jul 2023 11:33:17 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/tools/external_tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded tools</title>
+      <link>https://mathhydronum.insa-toulouse.fr/tools/embedded_tools/</link>
+      <pubDate>Fri, 21 Jul 2023 11:33:10 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/tools/embedded_tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A few references</title>
+      <link>https://mathhydronum.insa-toulouse.fr/shortcuts/references/</link>
+      <pubDate>Wed, 19 Jul 2023 15:00:32 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/shortcuts/references/</guid>
+      <description>This pages contains a non exhaustive list of references for the different codes: DassFlow , SMASH , and DassHydro .
+References for DassFlow References introducing the approaches, methods, algorithms (and not those focusing on new applications, new flows, databases) Know-hows on VDA &amp;amp; fundamentals of DassFlow&amp;rsquo;s algorithms: basics of inverse problems, optimal control, gradient-based methods, gradient computations, adjoints (equations, codes), codes assessements, covariances operators, regularizations terms, link with BLUE - Kalman filters etc :</description>
+    </item>
+    
+    <item>
+      <title>How to cite</title>
+      <link>https://mathhydronum.insa-toulouse.fr/shortcuts/how_to_cite/</link>
+      <pubDate>Wed, 19 Jul 2023 10:36:52 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/shortcuts/how_to_cite/</guid>
+      <description>If using one of the codes, please cite both the code website reference (see bibtex code below) and corresponding research articles. See references:
+For DassFlow For SMASH DassFlow1D @misc{dassflow-1d, title = {DassFlow (Data Assimilation for Free Surface Flows) computational software}, author = {K. Larnier, J. Monnier et al.}, note = {INSA, Math. Institute of Toulouse (IMT), CS Group, INRae}, url = {https://mathhydronum.insa-toulouse.fr/}, year={2023}, } Download DassFlow2D @misc{dassflow-2d, title={DassFlow (Data Assimilation for Free Surface Flows) computational software}, author={L.</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://mathhydronum.insa-toulouse.fr/shortcuts/faq/</link>
+      <pubDate>Wed, 19 Jul 2023 10:36:33 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/shortcuts/faq/</guid>
+      <description>Are DassFlow and SMASH freewares open-source? Yes, they are freely distributed under GNU AFFERO GENERAL PUBLIC LICENSE.
+If you use or adapt one of these codes, please cite:
+See How to Cite and References .
+Is it free for commercial use? No. Commercial use is allowed with an agreement in due form only.
+How to cite the use of the code? You can find up-to-date bibtex code for each code in How to Cite .</description>
+    </item>
+    
+    <item>
+      <title>Form submission successfull</title>
+      <link>https://mathhydronum.insa-toulouse.fr/download/dl_success/</link>
+      <pubDate>Tue, 18 Jul 2023 14:31:18 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/download/dl_success/</guid>
+      <description>Thank you for your interest into our HiVDI algorithm. An email of your request has been sent to @email1 and @email2. A response will be given to you in the shortest delays.
+You can have a look at the presentation of the HiVDI algorithm , or check some test cases and real-world applications .</description>
+    </item>
+    
+    <item>
+      <title>HiVDI-DassFlow1D test cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_hivdi_dassflow1d/</link>
+      <pubDate>Thu, 13 Jul 2023 10:14:32 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_hivdi_dassflow1d/</guid>
+      <description>Below a few historical results presented in [Larnier-Monnier, Compt. GeoSci. 2023]. You can download the HiVDI algorithm on this page.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes presentation on DassHydro</title>
+    <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/</link>
+    <description>Recent content in Codes presentation on DassHydro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2023 17:23:02 +0200</lastBuildDate><atom:link href="https://mathhydronum.insa-toulouse.fr/codes_presentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shared technologies for all codes</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_shared_tech/</link>
+      <pubDate>Fri, 07 Jul 2023 11:40:04 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_shared_tech/</guid>
+      <description>Codes presentation DassFlow is the code simulating river dynamics either based on the 2D Shallow Water system (2D SW), DassFlow 2D code, or on the 1D Saint-Venant system (1D SW), DassFlow1D code.
+SMASH is the code simulating the hydrology (spatially distributed model) at watershed scale.
+DassHydro is the code integrating both codes, which are weakly coupled in the way SMASH - DassFlow 2D.
+Codes languages and architecture The three codes ( DassFlow2D , DassFlow1D and SMASH ) have been built up following the same spirit and technologies.</description>
+    </item>
+    
+    <item>
+      <title>DassHydro</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dasshydro/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:36 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dasshydro/</guid>
+      <description>What is DassHydro ? DassHydro denotes the name of the code sequentially coupling SMASH and DassFlow2D .
+DassHydro enables complete simulations from rainfall to discharge and inundation dynamics (rainfall-runoff hydraulics).
+As a consequence, DassHydro provides a quite complete computational code dedicated to hydrology (floods, inundations).
+DassHydro inherits from all capabilities of DassFlow2D and SMASH, in particular of the Data Assimilation capabilities.
+Test cases and real-world applications of DassHydro</description>
+    </item>
+    
+    <item>
+      <title>DassFlow 1D &amp; 2D</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dassflow/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:36 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_dassflow/</guid>
+      <description>Fine scale 1D hydraulic model with hydrological inflows of the Negro River in the Amazon basin built from multi-satellite and in situ data. From [Pujol et al. 2020, JoH] What is DassFlow ? DassFlow (Data Assimilation for Free Surface Flows) denotes a set of computational codes aiming at modeling free surface geophysical flows with data assimilation capabilities. These flows can be water-rivers flows (Newtonian rheology) but also ice-glaciers flows (power-laws rheology) or lavas, muds flows1 etc (based on Herschel-Bulskley rheology laws).</description>
+    </item>
+    
+    <item>
+      <title>SMASH</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_smash/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:45 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_smash/</guid>
+      <description>What is SMASH ? SMASH Spatially distributed Modeling and Assimilation for Hydrology denotes a computational code aiming at simulating discharge hydrographs and hydrological states at any spatial location within a basin and reproduce the hydrological response of contrasted catchments. It contains several hydrological operators and flexible model structures with data assimilation and sensitivity analysis algorithms. The code is designed both for operational forecasting of floods and low flows, and can take advantage of spatially distributed meteorological forcings, physiographic data and hydrometric observations.</description>
+    </item>
+    
+    <item>
+      <title>HIVDI algorithm (SWOT Mission)</title>
+      <link>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_hivdi/</link>
+      <pubDate>Mon, 26 Jun 2023 17:23:49 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/codes_presentation/pres_hivdi/</guid>
+      <description>Description of the solved inverse problem. Images extracted from [Larnier-Monnier, Compt. GeoSci. 2023]. What is HiVDI ? HiVDI = Hybrid Hierarchical Variational Discharge Inference
+The HiVDI algorithm aims at estimating rivers discharge and rivers bathymetry from measurements of the SWOT instrument (NASA-CNES et al. mission).
+In a nutshell, the algorithm relies on DassFlow1D code , Deep Learning and a Bayesian analysis, see figure below (details available in [Larnier-Monnier 2023]). The algorithm is here available upon simple request.</description>
+    </item>
+    
+  </channel>
+</rss>

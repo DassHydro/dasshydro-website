@@ -1,0 +1,7 @@
+@misc{dasshydro,
+title={DassHydro (Data Assimilation for Hydrology) computational software},
+author={P.-A. Garambois, F. Colleoni, T. Huynh, J. Monnier, L. Pujol, L. Villeneuve et al.},
+note = {INRAe, INSA, Univ. Strasbourg et al.},
+url = {https://update},
+year={2023},
+} 

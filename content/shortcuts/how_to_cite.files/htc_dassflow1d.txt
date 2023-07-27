@@ -1,0 +1,6 @@
+title = {DassFlow (Data Assimilation for Free Surface Flows) computational software},
+author = {K. Larnier, J. Monnier et al.},
+note = {INSA, Math. Institute of Toulouse (IMT), CS Group, INRae},
+url = {https://mathhydronum.insa-toulouse.fr/},
+year={2023},
+}

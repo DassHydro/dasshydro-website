@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Cases on DassHydro</title>
+    <link>https://mathhydronum.insa-toulouse.fr/examples/</link>
+    <description>Recent content in Test Cases on DassHydro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 15:49:54 +0200</lastBuildDate><atom:link href="https://mathhydronum.insa-toulouse.fr/examples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DassHydro test cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_dasshydro/</link>
+      <pubDate>Thu, 22 Jun 2023 15:53:44 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_dasshydro/</guid>
+      <description>You can download the different codes on this page.</description>
+    </item>
+    
+    <item>
+      <title>SMASH test cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_smash/</link>
+      <pubDate>Thu, 22 Jun 2023 15:53:21 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_smash/</guid>
+      <description>You can download the different codes on this page.</description>
+    </item>
+    
+    <item>
+      <title>HiVDI-DassFlow1D test cases</title>
+      <link>https://mathhydronum.insa-toulouse.fr/examples/ex_hivdi_dassflow1d/</link>
+      <pubDate>Thu, 13 Jul 2023 10:14:32 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/examples/ex_hivdi_dassflow1d/</guid>
+      <description>Below a few historical results presented in [Larnier-Monnier, Compt. GeoSci. 2023]. You can download the HiVDI algorithm on this page.</description>
+    </item>
+    
+  </channel>
+</rss>

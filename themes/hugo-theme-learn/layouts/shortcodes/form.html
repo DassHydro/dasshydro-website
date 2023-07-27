@@ -1,0 +1,68 @@
+<!-- VG - this is an original form based on the one at URL: https://www.math.univ-toulouse.fr/DassFlow/download-fulfill.html (deprecated website) -->
+{{ $_hugo_config := `{ "version": 1 }` }}
+<!-- About the institution -->
+<form action="/download/submission.php" method="post">
+    <h3>About the academic institution</h3>
+    <label for="instname">Institution Name: <font color="D2042D">*</font></label>
+        <input type="text" id="instname" name="instname" value="" required=""> 
+        <label for="instinfo">Institution Complementary Information (scientific leader, team name): <font color="D2042D">*</font></label>
+        <textarea id="instinfo" name="instinfo" required=""></textarea>
+        <label for="insturl">Institution URL: <font color="D2042D">*</font></label>
+        <input type="url"id="insturl" name="insturl" value="" required="" placeholder="https://example.com">
+        <label for="instaddr">Institution Address:</label> 
+        <input type="text" id="instaddr" name="instaddr" value="">
+
+
+
+
+
+    <!-- About the user -->
+    <h3>About you</h3>
+    <label for="name">Full Name: <font color="D2042D">*</font></label>
+        <input type="text" id="name" name="name" value="" required="" placeholder="Your Name">
+    <label for="githublogin">GitHub Username: <font color="D2042D">*</font></label>
+        <input type="login" id="githublogin" name="githublogin" value="" required="">
+    <label for="email">Email: <font color="D2042D">*</font></label>
+        <input type="email" id="email" name="email" value="" required="" placeholder="your@email.address">
+    <label for="pos">Position: <font color="D2042D">*</font></label>
+        <input id="pos" name="pos" value="" required="" list="position" placeholder="Professor">
+            <datalist id="position">
+                <option value="PhD Candidate">
+                <option value="Post-doctoral fellow">
+                <option value="Researcher">
+                <option value="Associate Professor">
+                <option value="Professor">
+                <option value="Engineer">
+                <option value="Other">[Enter your position]</option>
+            </datalist>
+
+    <!-- addditional info, free space -->
+    <label for="addinfo"><h4>Complementary information, remark or specific needs:</h4></label>
+    <textarea id="addinfo" name="addinfo"></textarea>
+    <!-- Required field -->
+    <p style="font-size:small;">
+        <font color="D2042D">*</font> <em>Required field</em>
+    </p>
+    <input type="reset" value="Clear form">
+    <hr>
+
+    <!-- Conditions (checkboxes) -->
+    <p>
+      <input type="checkbox" name="ref_lic_check" id="ref_lic_check" required=""><label for="ref_lic_check">I have read and agree to the <a href="https://github.com/teamdigitale/licenses/blob/master/AGPL-3.0-or-later" target="_blank">GNU AFFERO GENERAL PUBLIC LICENSE terms and conditions</a>. I also agree to <a href="/shortcuts/how_to_cite/#hivdi" target="_blank">cite the authors</a> in the event of a publication. <font color="D2042D">*</font></label>
+      <input type="checkbox" name="truth_check" id="truth_check" required=""> <label for="truth_check">I hereby confirm that all the information above is true and correct. <font color="D2042D">*</font></label>
+    </p>
+    <style> 
+          input[type=submit] {
+          background-color: #167ad0;
+          color: white;
+          border-radius: 12px;
+          padding: 16px 32px;
+          margin: 4px 2px;
+          cursor: pointer;
+          font-weight: bold;
+        }
+    </style>
+    <center>
+      <input type="submit" value="Submit request"> <br>
+    </center>    
+</form>

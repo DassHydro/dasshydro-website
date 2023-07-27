@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project-team MathHydroNum on DassHydro</title>
+    <link>https://mathhydronum.insa-toulouse.fr/the_team/</link>
+    <description>Recent content in Project-team MathHydroNum on DassHydro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 15:20:34 +0200</lastBuildDate><atom:link href="https://mathhydronum.insa-toulouse.fr/the_team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Objectives</title>
+      <link>https://mathhydronum.insa-toulouse.fr/the_team/team_objectives/</link>
+      <pubDate>Thu, 22 Jun 2023 15:24:20 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/the_team/team_objectives/</guid>
+      <description>MathHydroNum denotes a French multidisciplinary research project-team offering expertise in numerical hydrology and the software platform DassHydro (Data Assimilation in Hydrology) dedicated to numerical modeling of surface hydrodynamics and hydrology.
+The team brings together expertise in computational sciences, hydrology, hydraulics, mathematical models and methods, inverse problems, statistical inference, sensitivity analysis, data assimilation, reduced models, and physically informed neural networks.
+The objectives of MathHydroNum are to design models, numerical methods, algorithms, and computational softwares that address scientific challenges in the following areas:</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>https://mathhydronum.insa-toulouse.fr/the_team/team_members/</link>
+      <pubDate>Thu, 22 Jun 2023 15:24:12 +0200</pubDate>
+      
+      <guid>https://mathhydronum.insa-toulouse.fr/the_team/team_members/</guid>
+      <description>Founding teams INSA Toulouse - IMT INRAE Aix (UMR RECOVER) Jérôme Monnier (Professor, founder, co-lead) Webpage Pierre-André Garambois (Researcher, co-founder, co-lead) Webpage Robin Bouclier (Associated member, associate Professor HDR) Webpage Benjamin Renard (Researcher) Olivier Roustant (Associated member, Professor) Webpage François Colleoni (R&amp;amp;D Engineer) Mustapha Allabou (Ph.D. Student 2021-24) Truyen Huynh (Ph.D. student 2022-25) Hugo Boulenc (Ph.D. Student 2022-25) CS Group Toulouse HydroSciences Montpellier Kévin Larnier (R&amp;amp;D Engineer) Webpage Léo Pujol (postdoctoral researcher) Webpage Collaborators Engees-Icube SERTIT-Icube Guilhem Dellinger (Associate professor) Webpage Alessandro Caretto (R&amp;amp;D engineer) IMFT - INPT International collaborators Helene Roux (Professor) Webpage Shangzhi Chen (Assistant Professor, Anhui University of Science and Technology in China) Webpage Partners and co-funders </description>
+    </item>
+    
+  </channel>
+</rss>
