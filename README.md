@@ -24,6 +24,8 @@ This hugo website uses an existing hugo theme: **[hugo-theme-learn](https://gith
 
 > **Note:** according to Hugo, *Shortcodes are simple snippets inside your content files calling built-in or custom templates.*
 
+> **Note:** for the theme colors *(css file for the almost the whole site)*, we use a custom template that you can find in <code>themes/hugo-theme-learn/static/css/theme-dasshydro.css</code>. You can select another, see [this page](https://learn.netlify.app/en/basics/style-customization/#yours-variant).
+
 <a name="reporg"></a>
 ## 2. Repository organisation
 <ul>
@@ -98,15 +100,73 @@ To add images, you can use <code>\!\[image_desc](image_url)</code>. For example,
 You can change parameters, like the width, on the url: *e.g <code>\!\[List of Logos](/images/logo_list.png?width=20pc)</code>*.
 <a name="shc"></a>
 
-> **Note:** all images must be stored in <code>/themes/hugo-theme-learn</code>
+> **Note:** all images must be stored in <code>/themes/hugo-theme-learn/static/images</code> and accessed using the relative URL <code>/images/img_name.png</code> *(static is a folder name that's implicitly added when you mention a folder)*.
+
+### 4.4 Change the logo
+You can change the logo *(on the top left of every webpage) in <code>themes/hugo-theme-learn/layouts/partials/logo.html</code>, either with an image or a svg (in **html**).  
+To change the icon of the tab *(just like the cat for github)*, you can change the image <code>/images/favicon.png</code>, replace it with your own and name it **favicon.png**.
+
+### 4.5 Change header, footer, menu, etc
+You can change these directly in the <code>themes/hugo-theme-learn/layouts/partials</code> folder. 
+
+### 4.6 Create new files 
+You can create a new file with the following command, in your repository directory:
+````
+hugo new section/file_name.md
+````
+For example, the <code>content/examples/ex_dassflow2d/ex_real-world_cases_dassflow2d.md</code> was created with:
+````
+hugo new examples/ex_dassflow2d/ex_real-world_cases_dassflow2d.md
+````
+You can also create **chapter pages** with the following command:
+````
+hugo new --kind chapter section/_index.md
+````
+
+> **Note:** there should be exactly one *_index.md* file *(chapter page)* in each section or subsection.
+
+### 4.7 Front Matter
+For more information on the Front Matter, refer to the [theme documentation](https://learn.netlify.app/en/cont/pages/) and other sections, or directly to the [hugo](https://gohugo.io/content-management/front-matter/) website.
 
 ## 5. Use shortcodes
+To use hugo shortcodes *( the <code>{{% shortcode \<parameters> %}}.Inner{{% /shortcode}}</code> blocks)*, refer to the [theme documentation](https://learn.netlify.app/en/shortcodes/). 
+
+### 5.1 button
+The button shortcode was made by [matcornic](https://github.com/matcornic/hugo-theme-learn), but two attributes were added:
+- <code>download</code> to make the button open a page or download it *(default: false)*:  
+You can make a button download a file by adding <code>download="true"</code> in the shortcode parameters.
+- <code>target</code> to open a page in the same tab or a new one *(default: _self = same tab)*:  
+You can change the target attribute by adding <code>target="_blank"</code> or <code>target="_self"</code> to respectively open the page in a new or the same tab.
+
+### 5.2 center_align
+To align text to the center of a page *(native in a **chapter** page, see [Create new files](#46-create-new-files))*, you can use the center_align shortcode with the following line:
+<code>{{% center_align%}}centered_text{{% /center_align %}}</code>
+
+> **Note:** you can easily create a *right_align* shortcode or any other kind with this simple template, to overpass Hugo / hugo-theme-learn styles.
+ 
+### 5.3 download
+To make a clickable text download a file, you can use the download shortcode:  
+<code>{{% download fileName="page_name.files/file_name" %}}Text{{% /download %}}</code>
+
+> **Note:** *For example, on the documentation page, you can download the **Former Documentation** directly by clicking the text with the following:  
+<code>{{% download fileName="_index.files/DassFlow2D_doc_2013.pdf" %}}Former documentation{{% /download %}}</code>*
+
+### 5.4 form
+The form shortcode is unique, and can be called for the HiVDI download using <code>{{% form %}}</code>.
 
 <a name="pub"></a>
 ## 6. Publish the website
+To publish the website, enter the following command in your repository directory:
+````
+hugo -D
+````
+Then, just copy-paste the content of the <code>public</code> folder to the webserver. It should be all !
+
+> **Note:** some JS scripts or parameters are not loccaly visible and can only be observed / tested when online *(for example, the HiVDI form, the visitor trakcer, etc)*.
 
 <a name="todo"></a>
 ## 7. TODO
+For the TODO_list, check the [Google Drive](https://drive.google.com/drive/u/0/folders/1OBo92BmFDnwjj8ws8Qe4W2NbYnEF_L4c).
 
 <a name="web"></a>
 ## 8. More than useful webpages
