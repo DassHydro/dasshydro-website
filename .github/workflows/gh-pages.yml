@@ -64,10 +64,10 @@ jobs:
             --gc \
             --minify
 
-        - name: Deploy to GitHub Pages
-          uses: JamesIves/github-pages-deploy-action@releases/v4
-          with:
-            folder: ./public
-            repository-name: DassHydro/dasshydro.github.io
-            branch: main
-            token: $${{ secrets.PERSONAL_TOKEN }}
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          folder: ./public
+          repository-name: DassHydro/dasshydro.github.io
+          branch: main
+          token: $${{ secrets.PERSONAL_TOKEN }}
