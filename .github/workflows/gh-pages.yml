@@ -60,4 +60,4 @@ jobs:
           folder: ./public
           repository-name: DassHydro/dasshydro.github.io
           branch: main
-          token: $${{ secrets.PERSONAL_TOKEN }}
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
