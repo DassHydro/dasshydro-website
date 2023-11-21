@@ -8,7 +8,7 @@ chapter = false
 <!-- {{% children style="h1" description="true" %}} -->
 
 ### DassFlow1D
-{{% button href="https://github.com/DassHydro-dev/dassflow1d/tree/master/doc" target="_blank" icon="fas fa-book" %}}DassFlow1D documentation{{% /button %}}
+{{% button href="https://github.com/DassHydro/dassflow1d/tree/master/doc" target="_blank" icon="fas fa-book" %}}DassFlow1D documentation{{% /button %}}
 ### DassFlow2D
 Up-to-date DassFlow2D documentation generated with SPHINX: {{% button href="" target="_blank" icon="fas fa-book" %}}DassFlow2D documentation{{% /button %}}
 

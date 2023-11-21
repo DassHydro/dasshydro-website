@@ -9,12 +9,12 @@ Codes for DassFlow and SMASH are available on GitHub. Please refer to the README
 
 ### DassFlow1D
 
-{{% button href="https://github.com/DassHydro-dev/dassflow1d" icon="fab fa-github" target="_blank" %}}Download DassFlow1D{{% /button %}}
+{{% button href="https://github.com/DassHydro/dassflow1d" icon="fab fa-github" target="_blank" %}}Download DassFlow1D{{% /button %}}
 
 ### DassFlow2D
 
-{{% button href="https://github.com/DassHydro-dev/dassflow2d" icon="fab fa-github" target="_blank" %}}Download DassFlow2D{{% /button %}}
+{{% button href="https://github.com/DassHydro/dassflow2d" icon="fab fa-github" target="_blank" %}}Download DassFlow2D{{% /button %}}
 
 ### SMASH
 
-{{% button href="https://github.com/DassHydro-dev/smash" icon="fab fa-github" target="_blank" %}}Download SMASH{{% /button %}}
+{{% button href="https://github.com/DassHydro/smash" icon="fab fa-github" target="_blank" %}}Download SMASH{{% /button %}}

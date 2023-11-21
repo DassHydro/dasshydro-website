@@ -11,7 +11,7 @@ description: SMASH (Spatially distributed Modelling and Assimilation for Hydrolo
 
 **SMASH** ***Spatially distributed Modeling and Assimilation for Hydrology*** denotes a computational code aiming at simulating discharge hydrographs and hydrological states at any spatial location within a basin and reproduce the hydrological response of contrasted catchments. It contains several hydrological operators and flexible model structures with data assimilation and sensitivity analysis algorithms. The code is designed both for operational forecasting of floods and low flows, and can take advantage of spatially distributed meteorological forcings, physiographic data and hydrometric observations.
 
-The code is available on {{% button href="https://github.com/DassHydro-dev/dassflow2d" icon="fab fa-github" target="_blank" %}}GitHub{{% /button %}} and its SPHINX documentation on the {{% button href="https://smash.recover.inrae.fr" target="_blank" icon="fas fa-book" %}}Documentation{{% /button %}} page.
+The code is available on {{% button href="https://github.com/DassHydro/dassflow2d" icon="fab fa-github" target="_blank" %}}GitHub{{% /button %}} and its SPHINX documentation on the {{% button href="https://smash.recover.inrae.fr" target="_blank" icon="fas fa-book" %}}Documentation{{% /button %}} page.
 
 {{% notice info %}}
 The basic technologies of the code are described in the [Shared technologies for all codes](/codes_presentation/pres_shared_tech) page.

@@ -1,8 +1,0 @@
-@article{hivdi2023,
-  title={Hybrid Neural Network - Variational Data Assimilation algorithm to infer river discharges from SWOT-like data},
-  author={Larnier, Kevin and Monnier, Jerome},
-  journal={Computational Geosciences},
-  pages={},
-  year={2023},
-  publisher={Springer}
-}

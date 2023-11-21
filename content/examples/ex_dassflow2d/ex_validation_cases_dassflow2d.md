@@ -24,7 +24,7 @@ weight: 20
 ![Falling Gaussian](/images/Falling_Gaussian.png?width=55pc) 	
 
 {{% notice note %}}
-DassFlow2d documentation is available on [GitHub](https://github.com/DassHydro-dev/dassflow2d/blob/master/doc/)
+DassFlow2d documentation is available on [GitHub](https://github.com/DassHydro/dassflow2d/blob/master/doc/)
 {{% /notice %}}
 
 {{% notice tip %}}

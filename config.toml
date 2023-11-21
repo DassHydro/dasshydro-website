@@ -56,7 +56,7 @@ home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]] 
     name = "<i class='fab fa-github'></i> DassHydro on GitHub"
     identifier = "gh"
-    url = "https://github.com/DassHydro-dev/"
+    url = "https://github.com/DassHydro/"
     weight = 10
 
 [[menu.shortcuts]]

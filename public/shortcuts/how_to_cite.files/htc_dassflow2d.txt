@@ -1,7 +1,0 @@
-@misc{dassflow-2d,
-title={DassFlow (Data Assimilation for Free Surface Flows) computational software},
-author={L. Pujol, P.-A. Garambois, K. Larnier,  J. Monnier, L. Villeneuve et al.},
-note = {Math. Institute of Toulouse (IMT), INRAe, INSA, Univ. Strasbourg},
-url = {https://update},
-year={2023},
-} 
