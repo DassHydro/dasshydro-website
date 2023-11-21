@@ -1,7 +1,6 @@
 ---
 title: "Frequently Asked Questions"
 date: 2023-07-19T10:36:33+02:00
-draft: true
 hidden: true
 ---
 

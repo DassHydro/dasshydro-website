@@ -1,7 +1,6 @@
 ---
 title: "Members"
 date: 2023-06-22T15:24:12+02:00
-draft: true
 weight: 20
 description: Get to know the persons behind MathHydroNum.
 ---

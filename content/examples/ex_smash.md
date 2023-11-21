@@ -1,7 +1,6 @@
 ---
 title: "SMASH test cases"
 date: 2023-06-22T15:53:21+02:00
-draft: true
 weight : 30
 description: Test cases for SMASH.
 ---

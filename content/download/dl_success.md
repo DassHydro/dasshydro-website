@@ -1,7 +1,6 @@
 ---
 title: "Form submission successfull"
 date: 2023-07-18T14:31:18+02:00
-draft: true
 hidden: true
 ---
 {{% center_align %}}### Thank you for your interest into our HiVDI algorithm.{{% /center_align %}}

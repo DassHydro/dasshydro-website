@@ -1,7 +1,6 @@
 ---
 title: "Shared technologies for all codes"
 date: 2023-07-07T11:40:04+02:00
-draft: true
 weight: 10
 description: "The DassFlow and SMASH codes are built on shared technologies."
 ---

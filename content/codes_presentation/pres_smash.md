@@ -1,7 +1,6 @@
 ---
 title: "SMASH"
 date: 2023-06-26T17:23:45+02:00
-draft: true
 weight: 40
 description: SMASH (Spatially distributed Modelling and Assimilation for Hydrology), an open-source Python-Fortran library that provides a variety of user-friendly routines for spatially distributed hydrological modeling and multisource data-assimilation.
 ---

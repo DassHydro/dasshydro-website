@@ -1,7 +1,6 @@
 ---
 title: "How to cite"
 date: 2023-07-19T10:36:52+02:00
-draft: true
 hidden: true
 ---
 

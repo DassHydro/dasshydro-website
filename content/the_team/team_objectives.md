@@ -1,7 +1,6 @@
 ---
 title: "Objectives"
 date: 2023-06-22T15:24:20+02:00
-draft: true
 weight: 10
 description: MathHydroNum, a French multidisciplinary research team focusing on the modeling and numerical estimations of water fluxes.
 ---

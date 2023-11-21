@@ -1,7 +1,6 @@
 ---
 title: "Real-world cases"
 date: 2023-06-22T15:54:40+02:00
-draft: true
 # hidden: true
 description: This page presents applications of DassFlow2D on real cases.
 weight: 10

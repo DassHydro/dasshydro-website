@@ -1,7 +1,6 @@
 ---
 title: "A few references"
 date: 2023-07-19T15:00:32+02:00
-draft: true
 hidden: true
 ---
 This pages contains a non exhaustive list of references for the different codes: {{% button href="/shortcuts/references/#references-for-dassflow" %}}DassFlow{{% /button %}}, {{% button href="/shortcuts/references/#references-for-smash" %}}SMASH{{% /button %}}, and {{% button href="/shortcuts/references/#references-for-dasshydro" %}}DassHydro{{% /button %}}.

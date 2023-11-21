@@ -1,7 +1,6 @@
 ---
 title: "Validation cases"
 date: 2023-06-22T15:54:50+02:00
-draft: true
 # hidden: true
 description: This page presents validation tests of DassFlow2D computational codes.
 weight: 20

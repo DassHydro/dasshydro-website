@@ -1,7 +1,6 @@
 ---
 title: "HIVDI algorithm (SWOT Mission)"
 date: 2023-06-26T17:23:49+02:00
-draft: true
 weight: 50
 description: Algorithm dedicated to spatial hydrology using NASA-CNES et al. satellite data.
 ---

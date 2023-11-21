@@ -1,7 +1,6 @@
 ---
 title: "Download DassFlow & SMASH"
 date: 2023-06-22T16:07:25+02:00
-draft: true
 weight: 10
 description: Get the different versions of DassFlow and SMASH on GitHub. 
 ---

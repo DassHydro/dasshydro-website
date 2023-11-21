@@ -1,7 +1,6 @@
 ---
 title: "DassHydro"
 date: 2023-06-26T17:23:36+02:00
-draft: true
 weight: 20
 description: "Sequential coupling of SMASH and DassFlow codes: from rainfall to discharge & inundation dynamics (rainfall-runoff hydraulics)."
 ---

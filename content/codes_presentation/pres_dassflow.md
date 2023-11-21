@@ -1,7 +1,6 @@
 ---
 title: "DassFlow 1D & 2D"
 date: 2023-06-26T17:23:36+02:00
-draft: true
 weight: 30
 description: DassFlow (Data Assimilation for Free Surface Flows), a set of computational codes aiming at modeling free surface geophysical flows with data assimilation capabilities.
 ---

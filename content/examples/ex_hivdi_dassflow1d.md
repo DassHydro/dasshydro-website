@@ -1,7 +1,6 @@
 ---
 title: "HiVDI-DassFlow1D test cases"
 date: 2023-07-13T10:14:32+02:00
-draft: true
 description: Test cases for HiVDI (based on DassFlow1D).
 ---
 
