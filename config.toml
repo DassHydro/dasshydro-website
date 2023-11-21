@@ -1,4 +1,4 @@
-baseURL = 'https://mathhydronum.insa-toulouse.fr'
+baseURL = 'https://dasshydro.github.io'
 languageCode = 'en-us'
 title = "DassHydro"
 
