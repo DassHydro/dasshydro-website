@@ -6,7 +6,7 @@ weight: 10
 description: MathHydroNum, a French multidisciplinary research team focusing on the modeling and numerical estimations of water fluxes.
 ---
 **MathHydroNum** denotes a French **multidisciplinary research project-team** offering expertise in numerical hydrology and the software platform
-[DassHydro](http://github.com/DassHydro-dev) *(Data Assimilation in Hydrology)* dedicated to numerical modeling of surface hydrodynamics and hydrology.
+[DassHydro](http://github.com/DassHydro) *(Data Assimilation in Hydrology)* dedicated to numerical modeling of surface hydrodynamics and hydrology.
 
 The team brings together expertise in computational sciences, hydrology, hydraulics, mathematical models and methods, inverse problems, statistical inference, sensitivity analysis, data assimilation, reduced models, and physically informed neural networks.
 
@@ -36,7 +36,7 @@ The objectives of MathHydroNum are to design models, numerical methods, algorith
 ### Computational software: DassHydro 
 DassHydro includes **DassFlow** and **SMASH** softwares.  
 These codes rely on {{% button href="/codes_presentation/pres_shared_tech" target="_blank" %}}shared technologies{{% /button %}}: *MPI Fortran kernels, Python wrapping, data assimilation processes*, *ML processes*.  
-These codes are available on [GitHub](http://github.com/DassHydro-dev).
+These codes are available on [GitHub](http://github.com/DassHydro).
 
 #### DassFlow
 The various developments of {{% button href="/codes_presentation/pres_dassflow" %}}DassFlow{{% /button %}} have been co-funded by **INSA Toulouse** since 2008, by **CNRS** in the 2010s, by **INSA Strasbourg** in 2015-2020, by **CNES** since 2014, by **INRAe Aix** since 2020, and by the French agency **ANR** *(Muffins project, 2022-25)*. 
