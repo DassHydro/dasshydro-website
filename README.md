@@ -81,7 +81,7 @@ winget install Hugo.Hugo.Extended
 ### 4.1 Clone the GitHub repository
 In your desired repository, just enter the following command to clone this repository and fetch the website's files:
 ````
-git clone https://github.com/DassHydro/DassHydro-website
+git clone https://github.com/DassHydro/dasshydro-website
 ````
 > **Note:** if you use different branches, just add <code> -b <branchName> </code> to the above command.
 
