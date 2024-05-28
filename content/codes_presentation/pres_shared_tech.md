@@ -5,9 +5,9 @@ weight: 10
 description: "The DassFlow and SMASH codes are built on shared technologies."
 ---
 ## Codes presentation
-**DassFlow** is the code simulating river dynamics either based on the **2D Shallow Water** system (2D SW), DassFlow 2D code, or on the **1D Saint-Venant** system (1D SW), DassFlow1D code.  
-**SMASH** is the code simulating the hydrology *(spatially distributed model)* at watershed scale.  
-**DassHydro** is the code integrating both codes, which are weakly coupled in the way SMASH - DassFlow 2D.  
+**DassFlow** is a code simulating river dynamics either based on the **1D Saint-Venant** system (1D SW), DassFlow1D code, or on the **2D Shallow Water** system (2D SW). DassFlow 2D code enables **2D zooms on 1D-like networks** with a single solver.
+**SMASH** is a code simulating hydrology *(spatially distributed model)* at watershed scale.
+**DassHydro** is a code integrating **SMASH** and **DassFlow**, which are weakly coupled in the way SMASH - DassFlow 2D.
 
 ## Codes languages and architecture
 - The three codes ({{% button href="/codes_presentation/pres_dassflow/#dassflow2d" target="_blank" %}}DassFlow2D{{% /button %}}, {{% button href="/codes_presentation/pres_dassflow/#dassflow1d" target="_blank" %}}DassFlow1D{{% /button %}} and {{% button href="/codes_presentation/pres_smash" target="_blank" %}}SMASH{{% /button %}}) have been built up following the same spirit and technologies.  
@@ -31,9 +31,13 @@ The typical optimization algorithms are *(non exhaustive list)*:
 
 - Classical and original **covariances operators** can be considered. 
 
-- Different **regularization terms** can be considered.
+- Several **regularization strategies** can be considered.
 
-- The estimation strategies can partially rely on **Machine Learning** techniques by employing e.g. *Feed-Forward Neural Networks*, *LSTM* (PyTorch library).  
+- **Hybrid physics based modeling** with  **Machine Learning** techniques.
+
+- **Differentiable codes** interfaced in **Python** can be easily combined with external **Machine Learning** librairies and algorithms (data flux in forward mode, gradient composition for inverse mode).
+
+- **Reduced order 2D flows model** based hybrid POD-NN (Proper Orthogonal Decomposition - Neural Networks) enabling **extremly fast simulations**.
 
 - Each code is interfaced with few pre and post-processors enabling to tackle large scale real-world datasets: **GIS libraries, mesh generators, visualization tools.**  
 
