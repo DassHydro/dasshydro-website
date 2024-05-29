@@ -13,7 +13,7 @@ description: Get to know the persons behind MathHydroNum.
 | INSA Toulouse - IMT                | INRAE Aix (UMR RECOVER)                | 
 | :--------------------------------: | :------------------------------------: |
 | Robin Bouclier *(Professor)* {{% button href="https://www.math.univ-toulouse.fr/~rbouclie/" target="_blank" %}}Webpage{{% /button %}} | Benjamin Renard *(Researcher)*         |
-| Olivier Roustant *(Associated member, Professor)* {{% button href="https://olivier-roustant.fr" target="_blank" %}}Webpage{{% /button %}} | François Colleoni *(R&D Engineer)* |
+| Olivier Roustant *(Professor)* {{% button href="https://olivier-roustant.fr" target="_blank" %}}Webpage{{% /button %}} | François Colleoni *(R&D Engineer)* |
 | Mustapha Allabou *(Ph.D. Student 2021-24)* | Truyen Huynh *(Ph.D. student 2022-25)* |
 | Hugo Boulenc *(Ph.D. Student 2022-25)* | |
 
@@ -38,8 +38,14 @@ description: Get to know the persons behind MathHydroNum.
 
 ### Co-funders
 
-| [![logo_mrech](/images/MinistereRecherche.png?width=10pc)](https://aniti.univ-toulouse.fr/en/) | [![logo_magri](/images/MinistereAgriculture.png?width=10pc)](https://aniti.univ-toulouse.fr/en/) | [![logo_aniti](/images/logo_aniti.png?width=10pc)](https://aniti.univ-toulouse.fr/en/) | [![logo_anr](/images/logo_anr.png?width=10pc)](https://anr.fr/en/) | [![logo_cnes](/images/logo_cnes.png?width=10pc)](https://cnes.fr/en/) | [![Ministère de la Transition Ecologique (SCHAPI, DGPR)](/images/logo_ministry.png?width=15pc)](https://www.data.gouv.fr/en/organizations/service-central-dhydrometeorologie-et-dappui-a-la-prevision-des-inondations/) |
+| [![logo_mrech](/images/MinistereRecherche.png?width=15pc)](https://www.enseignementsup-recherche.gouv.fr/fr) | [![logo_magri](/images/MinistereAgriculture.png?width=15pc)](https://agriculture.gouv.fr/) |
+| :-: | :-: |
+
+| [![logo_aniti](/images/logo_aniti.png?width=10pc)](https://aniti.univ-toulouse.fr/en/) | [![logo_anr](/images/logo_anr.png?width=10pc)](https://anr.fr/en/) | [![logo_cnes](/images/logo_cnes.png?width=10pc)](https://cnes.fr/en/) | [![Ministère de la Transition Ecologique (SCHAPI, DGPR)](/images/logo_ministry.png?width=15pc)](https://www.data.gouv.fr/en/organizations/service-central-dhydrometeorologie-et-dappui-a-la-prevision-des-inondations/) |
 | :-: | :-: | :-: | :-: |
+
+<!-- | [![logo_mrech](/images/MinistereRecherche.png?width=10pc)](https://aniti.univ-toulouse.fr/en/) | [![logo_magri](/images/MinistereAgriculture.png?width=10pc)](https://aniti.univ-toulouse.fr/en/) | [![logo_aniti](/images/logo_aniti.png?width=10pc)](https://aniti.univ-toulouse.fr/en/) | [![logo_anr](/images/logo_anr.png?width=10pc)](https://anr.fr/en/) | [![logo_cnes](/images/logo_cnes.png?width=10pc)](https://cnes.fr/en/) | [![Ministère de la Transition Ecologique (SCHAPI, DGPR)](/images/logo_ministry.png?width=15pc)](https://www.data.gouv.fr/en/organizations/service-central-dhydrometeorologie-et-dappui-a-la-prevision-des-inondations/) |>
+
 
 ---
 

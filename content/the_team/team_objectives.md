@@ -44,7 +44,7 @@ The various developments of {{% button href="/codes_presentation/pres_dassflow" 
 The various developments of {{% button href="/codes_presentation/pres_smash" %}}SMASH{{% /button %}} have been co-funded by **INRAe** and the national flood forecasting center **SCHAPI-DGPR** since 2017, by the French agency **ANR** *(Muffins project, 2022-25)* and European agency **DG-ECHO**. 
 
 {{% notice note %}}
-**ANITI** = [Artificial and Natural Intelligence Toulouse Institute](https://aniti.univ-toulouse.fr/)
+**ANITI** = [Artificial and Natural Intelligence Toulouse Institute](https://aniti.univ-toulouse.fr/)  
 **ANR** = [French National Research Agency](https://anr.fr)  
 **CNES** = [French National Center for Space Studies](https://cnes.fr/)  
 **CNRS** = [French National Center for Scientific Research](https://www.cnrs.fr/fr)  
