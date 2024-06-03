@@ -21,7 +21,7 @@ description: Get to know the persons behind MathHydroNum.
 | :-----------------------: | :-------------------------: |
 | Kévin Larnier *(R&D Engineer)* {{% button href="https://scholar.google.com/citations?user=HRF05vwAAAAJ&hl=en" target="_blank" %}}Webpage{{% /button %}} | Léo Pujol *(postdoctoral researcher)* {{% button href="https://scholar.google.fr/citations?hl=fr&user=f0cKHqYAAAAJ" target="_blank" %}}Webpage{{% /button %}} | 
 | Adrien Paris *(R&D Engineer)*  | |
-| Stéphane Calmant *(Scientific Director (Emeritus IRD)*  | |
+| Stéphane Calmant *(Scientific Director - Emeritus IRD)*  | |
 
 | Engees-Icube | SERTIT-Icube |
 | :---------------: | :---------------: |

@@ -1,21 +1,23 @@
 ---
 title: "SMASH"
-date: 2023-06-26T17:23:45+02:00
+date: 2024-06-3T15:22/00+02:00
 weight: 40
-description: SMASH (Spatially distributed Modelling and Assimilation for Hydrology), an open-source Python-Fortran library that provides a variety of user-friendly routines for spatially distributed hydrological modeling and multisource data-assimilation.
+description: SMASH (Spatially distributed Modelling and Assimilation for Hydrology) is an open-source Python-Fortran library, which development is lead by INRAE Aix-en-Provence, and that provides a variety of user-friendly routines for spatially distributed hydrological modeling and multisource data-assimilation.
 ---
 ![watershed](/images/overview_smash.png?width=30pc)
 
-## What is SMASH ?
+## What is SMASH?
+
+**SMASH** development is lead by INRAE Aix-en-Provence (cf. documentation {{% button href="https://smash.recover.inrae.fr" target="_blank" icon="fas fa-book" %}}Documentation{{% /button %}})
 
 **SMASH** ***Spatially distributed Modeling and Assimilation for Hydrology*** denotes a computational code aiming at simulating discharge hydrographs and hydrological states at any spatial location within a basin and reproduce the hydrological response of contrasted catchments. It contains several hydrological operators and flexible model structures with data assimilation and sensitivity analysis algorithms. The code is designed both for operational forecasting of floods and low flows, and can take advantage of spatially distributed meteorological forcings, physiographic data and hydrometric observations.
 
-The code is available on {{% button href="https://github.com/DassHydro/dassflow2d" icon="fab fa-github" target="_blank" %}}GitHub{{% /button %}} and its SPHINX documentation on the {{% button href="https://smash.recover.inrae.fr" target="_blank" icon="fas fa-book" %}}Documentation{{% /button %}} page.
+The code is available on {{% button href="https://github.com/DassHydro/smash" icon="fab fa-github" target="_blank" %}}GitHub{{% /button %}} and its SPHINX documentation on the {{% button href="https://smash.recover.inrae.fr" target="_blank" icon="fas fa-book" %}}Documentation{{% /button %}} page.
 
 {{% notice info %}}
 The basic technologies of the code are described in the [Shared technologies for all codes](/codes_presentation/pres_shared_tech) page.
 {{% /notice %}}
-#### What does it include ?
+#### What does it include?
 
 **SMASH** is a modular platform that contains conceptual representations and numerical approximations of dominant hydrological processes while aiming to maintain a relative parsimony. It also contains several algorithms for **pre and post-processing**, **signal analysis**, **model optimization** and **data assimilation** over large datasets. It originally enables to use variational data assimilation and hybrid methods based on statistical/machine learning approaches. SMASH enables to work at multiple spatio-temporal resolutions, with heterogeneous data in nature and sampling.
 
